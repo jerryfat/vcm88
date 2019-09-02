@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/bubble.png</file>
+        <file>images/button-pressed.png</file>
+        <file>images/button.png</file>
+        <file>images/progress-background.png</file>
+        <file>images/progress-fill.png</file>
+        <file>images/slider-handle.png</file>
+        <file>images/tab.png</file>
+        <file>images/tab_selected.png</file>
+        <file>images/textfield.png</file>
+        <file>datastore.cpp</file>
+        <file>datastore.h</file>
+        <file>main.cpp</file>
+        <file>images/rd-8-front.jpg</file>
+        <file>images/ASHLY_rd8-f.jpg</file>
+        <file>images/ASHLY-RD8C.jpg</file>
+        <file>images/ASHLY-RD8C.png</file>
+        <file>images/ASHLY-RD8C-1498x680.jpg</file>
+        <file>images/ASHLY-RD8C-1495x731.jpg</file>
+        <file>images/ASHLY-official-rd-8-front.jpg</file>
+        <file>images/rd-8-front-w-no-knobs1.jpg</file>
+        <file>images/VCM-88.jpg</file>
+        <file>images/ASHLY-slider-handle.jpg</file>
+        <file>images/ASHLY-slider-handle3.jpg</file>
+        <file>images/ASHLY-slider-handle3-green.png</file>
+        <file>images/ASHLY-slider-handle3-red.png</file>
+        <file>images/ASHLY-slider-handle3-green.jpg</file>
+        <file>images/ASHLY-slider-handle3-red.jpg</file>
+        <file>images/ASHLY-slider-handle-green.jpg</file>
+        <file>images/ASHLY-slider-handle-red.jpg</file>
+        <file>images/rd-8-front-w-no-knobs2.xcf</file>
+        <file>images/rd-8-front-w-no-knobs2.jpg</file>
+        <file>images/rd-8-front-w-no-knobs3.png</file>
+        <file>images/rd-8-front-w-no-knobs3.jpg</file>
+        <file>images/ASHLY-slider-handle3-yellow.png</file>
+        <file>images/QASHLY-slider-handle4.png</file>
+        <file>images/ASHLY-slider-handle4.png</file>
+        <file>images/ASHLY-slider-handle4-green.png</file>
+        <file>images/ASHLY-slider-handle4-yellow.png</file>
+    </qresource>
+</RCC>
